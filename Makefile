@@ -7,6 +7,6 @@ requirements-dev:
 	python -m pip install --upgrade pip
 	pip install -r requirements/develop.txt
 
-# Copia as variaveis de a
+# Copia as variaveis de ambiente para .env
 cp:
 	cp devtools/dotenv.dev .env
