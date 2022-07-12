@@ -1,16 +1,29 @@
-from app.jogo import Jogo
+import pytest
 
 
-def test_lista_jogadores_ordem_aleatoria():
-    jogo = Jogo()
-    lista_jogadores_ordem_aleatoria = jogo.ordenar_jogadores()
+@pytest.fixture
+def criar_jogo():
+    from app.jogo import Jogo
+    return(Jogo())
+  
+
+
+def test_lista_jogadores_ordem_aleatoria(criar_jogo):
     
-    assert lista_jogadores_ordem_aleatoria != jogo.ordenar_jogadores
+    criar_jogo.ordenar_jogadores()    
+    assert criar_jogo.lista_jogadores_restantes != criar_jogo.lista_jogadores
+    
     
 
-def test_dado_resultado():
-    jogo = Jogo()
-    jogo.rolar_dado()
+def test_dado_resultado(criar_jogo):
+    criar_jogo.rolar_dado()
     lista = [i for i in range(1, 7)]
     
-    assert jogo.dado_resultado in lista
+    assert criar_jogo.dado_resultado in lista
+    
+    
+    
+def test_nova_rodada(criar_jogo):
+    criar_jogo.nova_rodada()
+    assert criar_jogo.rodada == 1
+
