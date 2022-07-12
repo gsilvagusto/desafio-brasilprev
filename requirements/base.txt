@@ -1,5 +1,2 @@
-fastapi==0.63.0
 python-dotenv==0.17.0
-uvicorn[standard]==0.17.5
-motor==3.0.0
 logzero==1.7.0
