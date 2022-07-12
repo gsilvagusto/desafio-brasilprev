@@ -6,3 +6,9 @@ build-venv:
 requirements-dev:
 	python -m pip install --upgrade pip
 	pip install -r requirements/develop.txt
+
+
+lint: 
+	isort .
+	black app 
+	flake8 app
