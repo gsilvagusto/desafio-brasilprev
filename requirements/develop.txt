@@ -1,4 +1,9 @@
 -r base.txt
+autopep8==1.6.0
+bandit==1.7.4
 pylint==2.7.2
 pytest==5.4.3
 pytest-cov==2.11.1
+black==22.3.0
+flake8==4.0.1
+isort==5.10.1
