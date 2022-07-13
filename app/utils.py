@@ -1,0 +1,22 @@
+tupla_propriedades = (
+    'barra', 
+    'botafogo', 
+    'copacabana', 
+    'leblon', 
+    'ipanema', 
+    'recreio',
+    'lapa',   
+    'flamengo',
+    'laranjeiras',
+    'leme',
+    'lagoa',  
+    'centro',
+    'mangueira',
+    'tijuca', 
+    'vila_isabel',
+    'bomsucesso',
+    'meier',
+    'taquara',
+    'jacarepagua',
+    'santa_teresa'
+)
