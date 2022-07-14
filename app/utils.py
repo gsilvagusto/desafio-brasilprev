@@ -1,22 +1,4 @@
-tupla_propriedades = (
-    'barra', 
-    'botafogo', 
-    'copacabana', 
-    'leblon', 
-    'ipanema', 
-    'recreio',
-    'lapa',   
-    'flamengo',
-    'laranjeiras',
-    'leme',
-    'lagoa',  
-    'centro',
-    'mangueira',
-    'tijuca', 
-    'vila_isabel',
-    'bomsucesso',
-    'meier',
-    'taquara',
-    'jacarepagua',
-    'santa_teresa'
-)
+from random import randint
+
+# Probabilidade de 50%
+probabilidade_50 = randint(1, 2)

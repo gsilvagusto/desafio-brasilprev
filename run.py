@@ -1,25 +1,35 @@
-from app.jogo import Jogo
+from app.bo.bo_jogador import JogadorBo
+from app.bo.bo_jogo import Jogo
+from app.bo.bo_tabuleiro import Tabuleiro
+from app.comportamento import Comportameto
+from app.utils import probabilidade_50
 
-from app.tabuleiro import Tabuleiro
 
 def main():
- 
     
     # Inicializa o jogo
-    jogo = Jogo()    
+    Jogo()    
+    Jogo.ordenar_jogadores(Jogo) 
     
-    while len(jogo.lista_jogadores_restantes) > 1:
-        jogo.ordenar_jogadores()
+    while len(Jogo.lista_jogadores_restantes) > 1 and Jogo.rodada <= 999:
         
-        for jogador in jogo.lista_jogadores_restantes:
-            jogo.rolar_dado()
-            a = Tabuleiro.tabuleiro[2]
+        for jogador in Jogo.lista_jogadores_restantes:              
+            Jogo.rolar_dado(Jogo)     
+            JogadorBo.mover(jogador, Jogo.dado_resultado)  
             
-            print(a)
-            # print(jogador.cor, jogo.dado_resultado)
-        
-        break
-        
+            if jogador.posicao <= 20:                
+                jogador.comportamento(Comportameto(jogador, jogador.posicao, probabilidade_50))
+                
+            
+            else:
+                jogador.posicao -= 20
+                jogador.conta += 100  
+                jogador.comportamento(Comportameto(jogador, jogador.posicao, probabilidade_50))
+                
+            
+        Jogo.nova_rodada(Jogo)
+    
+    print(f'Jogador_{Jogo.lista_jogadores_restantes[0].cor} é vencedor!!!')       
 
 
 if __name__ == "__main__":
