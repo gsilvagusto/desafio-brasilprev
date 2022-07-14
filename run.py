@@ -8,7 +8,6 @@ from app.utils import probabilidade_50
 def main():
     
     # Inicializa o jogo
-    Jogo()    
     Jogo.ordenar_jogadores(Jogo) 
     
     while len(Jogo.lista_jogadores_restantes) > 1 and Jogo.rodada <= 999:

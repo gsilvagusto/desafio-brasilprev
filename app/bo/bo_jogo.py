@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from random import randint, sample
+from random import randint, sample, shuffle
 
 from app.bo.bo_jogador import JogadorBo
 
@@ -18,9 +18,8 @@ class Jogo:
     dado_resultado: int = None
 
     def ordenar_jogadores(self):
-        self.lista_jogadores_restantes = sample(
-            self.lista_jogadores, k=len(self.lista_jogadores)
-        )
+        shuffle(self.lista_jogadores_restantes) 
+        print("")
 
     def rolar_dado(self):
         self.dado_resultado = randint(1, 6)
