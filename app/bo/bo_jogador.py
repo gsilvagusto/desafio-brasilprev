@@ -8,16 +8,16 @@ from app.domains.domains_jogador import Jogador
 @dataclass
 class JogadorBo:
     jogador_azul: Jogador = Jogador(
-        cor="azul", conta=300, comportamento=Comportameto.impulsivo
+        cor="jogador_azul", conta=300, comportamento=Comportameto.impulsivo
     )
     jogador_preto: Jogador = Jogador(
-        cor="preto", conta=300, comportamento=Comportameto.exigente
+        cor="jogador_preto", conta=300, comportamento=Comportameto.exigente
     )
     jogador_vermelho: Jogador = Jogador(
-        cor="vermelho", conta=300, comportamento=Comportameto.cauteloso
+        cor="jogador_vermelho", conta=300, comportamento=Comportameto.cauteloso
     )
     jogador_branco: Jogador = Jogador(
-        cor="branco", conta=300, comportamento=Comportameto.aleatorio
+        cor="jogador_branco", conta=300, comportamento=Comportameto.aleatorio
     )
 
     def mover(jogador, dado_resultado):
@@ -27,15 +27,20 @@ class JogadorBo:
     def pagar(jogador, propriedade):
         from app.bo.bo_jogo import Jogo
 
-        if jogador.conta >= propriedade.aluguel:
+        if jogador.conta > -1:
             jogador.conta -= propriedade.aluguel
-            print(f"Jogador_{jogador.cor} pagou {propriedade.aluguel}")
+            JogadorBo.__dict__[propriedade.proprietario].conta += propriedade.aluguel
+            print(
+                f"{jogador.cor}: pagou aluguel de {propriedade.aluguel}: {propriedade.proprietario} : propriedade: {propriedade.nome} "
+            )
         else:
             for propriedade in jogador.lista_propriedades:
                 propriedade.proprietario = False
             indice = Jogo.lista_jogadores_restantes.index(jogador)
             Jogo.remove_jogador(Jogo, indice)
-            print(f"Jogador_{jogador.cor}: perdeu")
+            print(
+                f"{jogador.cor}: perdeu :: Comportamento: {jogador.comportamento.__name__}"
+            )
 
     def comprar(jogador: Jogador, posicao: int):
         propriedade = Tabuleiro.tabuleiro[posicao]
@@ -47,17 +52,13 @@ class JogadorBo:
         ):
             jogador.conta -= propriedade.venda
             jogador.lista_propriedades.append(propriedade)
-            propriedade.proprietario = True
-            print(
-                f"Jogador_{jogador.cor}: Compra realizada com sucesso: {propriedade.nome}"
-            )
+            propriedade.proprietario = jogador.cor
+            print(f"{jogador.cor}: Compra realizada com sucesso: {propriedade.nome}")
             return "Sucesso"
 
         elif propriedade.proprietario:
             JogadorBo.pagar(jogador, propriedade)
 
         else:
-            print(
-                f"Jogador_{jogador.cor}: Não foi possível realizar a comprar desta propriedade: : {propriedade.nome}"
-            )
+            print(f"{jogador.cor}: Dinheiro insuficiente: : {propriedade.nome}")
             return "Falha"
