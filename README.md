@@ -4,7 +4,5 @@
 
 ### Instruções:
 
-- Instalar ambiente virtual 
-- Ativar ambiente virtual
 
 
