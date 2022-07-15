@@ -13,7 +13,7 @@ def main():
     numero_simulacoes: int = 0
     lista_dados = list()
 
-    while numero_simulacoes <= 10:
+    while numero_simulacoes <= 9:
         numero_simulacoes += 1
         # Inicializa o jogo
 
@@ -70,7 +70,7 @@ def main():
 
         elif len(Jogo.lista_jogadores_restantes) < 2:
             id = str(uuid4())
-            vencedor = Jogo.lista_jogadores_restantes[0].cor
+            vencedor = Jogo.lista_jogadores_restantes[0].comportamento.__name__
             class_dados = DominioDados(
                 id=id, time_out=False, turnos=Jogo.rodada, vencedor=vencedor
             )

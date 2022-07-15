@@ -36,6 +36,6 @@ class Jogo:
     def ordenar():
         lista = list()
         for jogador in Jogo.lista_jogadores_restantes:
-            lista.append({"cor": jogador.cor, "conta": jogador.conta})
+            lista.append({"comportamento": jogador.comportamento.__name__, "conta": jogador.conta})
         ordenar = sorted(lista, key=operator.itemgetter("conta"), reverse=True)
-        return ordenar[0]["cor"]
+        return ordenar[0]["comportamento"]

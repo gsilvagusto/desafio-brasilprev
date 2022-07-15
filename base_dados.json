@@ -1,68 +1,62 @@
 [
   {
-    "id": "f34788f8-32b9-4e7e-bc1f-6e54629bfa4f",
-    "time_out": false,
-    "turnos": 18,
-    "vencedor": "jogador_preto"
-  },
-  {
-    "id": "e2af1944-5cc6-498e-9580-4e33c8bc074b",
+    "id": "ff986492-f2e4-4f8a-800b-f13f20c30388",
     "time_out": true,
-    "turnos": 29,
-    "vencedor": "jogador_vermelho"
+    "turnos": 20,
+    "vencedor": "aleatorio"
   },
   {
-    "id": "8faf740e-82bd-462d-825f-03713f5ed132",
-    "time_out": false,
-    "turnos": 15,
-    "vencedor": "jogador_branco"
-  },
-  {
-    "id": "a4b2fe30-3e2a-4c57-94ca-ab8b40481183",
+    "id": "1ea86713-0bc8-454d-87bb-20f832a9e7b9",
     "time_out": true,
-    "turnos": 24,
-    "vencedor": "jogador_vermelho"
+    "turnos": 28,
+    "vencedor": "aleatorio"
   },
   {
-    "id": "91542051-ff73-42b9-b09b-d36308540a09",
-    "time_out": false,
-    "turnos": 14,
-    "vencedor": "jogador_azul"
+    "id": "08c20230-b8eb-4add-8996-150c478df163",
+    "time_out": true,
+    "turnos": 26,
+    "vencedor": "aleatorio"
   },
   {
-    "id": "6cf0b446-3553-4416-b736-16d445dd1e41",
-    "time_out": false,
-    "turnos": 19,
-    "vencedor": "jogador_vermelho"
+    "id": "9f4c9645-7543-45b7-94b6-58a69aba6ca2",
+    "time_out": true,
+    "turnos": 34,
+    "vencedor": "aleatorio"
   },
   {
-    "id": "d3cc306c-17d6-4073-8e14-3a411a1af845",
+    "id": "6801de6d-d31d-4eef-a6d3-f359ffd5c05a",
+    "time_out": true,
+    "turnos": 28,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "de1a4e91-c19f-4605-8d50-2eedf717e516",
     "time_out": true,
     "turnos": 22,
-    "vencedor": "jogador_branco"
+    "vencedor": "aleatorio"
   },
   {
-    "id": "db6ff66c-313d-46f6-b7f6-cab22b686c2d",
-    "time_out": true,
-    "turnos": 24,
-    "vencedor": "jogador_preto"
-  },
-  {
-    "id": "51027b4f-0670-4f8c-8464-2f2fd2cf82e6",
-    "time_out": true,
-    "turnos": 23,
-    "vencedor": "jogador_azul"
-  },
-  {
-    "id": "868353fd-7b90-4909-a5cc-d2ace2b7204e",
+    "id": "89f32f52-a4ef-415a-9d67-b3b43c7f5c21",
     "time_out": false,
     "turnos": 18,
-    "vencedor": "jogador_branco"
+    "vencedor": "aleatorio"
   },
   {
-    "id": "eda6aabc-82b7-435f-a978-e61152abe0a1",
-    "time_out": false,
-    "turnos": 9,
-    "vencedor": "jogador_vermelho"
+    "id": "41497371-2a56-4354-873b-0733440c2cf2",
+    "time_out": true,
+    "turnos": 51,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "0b1f332d-cd4b-4845-a6d2-2fdd9409291f",
+    "time_out": true,
+    "turnos": 34,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "3b89c647-4a86-4ccd-be32-46255326c575",
+    "time_out": true,
+    "turnos": 42,
+    "vencedor": "aleatorio"
   }
 ]
