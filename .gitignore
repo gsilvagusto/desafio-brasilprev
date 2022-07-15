@@ -130,3 +130,6 @@ dmypy.json
 
 # Retirando diretorio vscode
 .vsconde/
+
+# Arquivos de dados
+base_dados.json
