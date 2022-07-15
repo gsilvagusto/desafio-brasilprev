@@ -1,0 +1,8 @@
+
+ Quantas partidas terminam por timeout (1000 rodadas) = 0
+ Quantos turnos em media demora uma partida = 29.0
+ Qual o comportamento que mais vence = aleatorio
+ Porcentagem de vitorias por comportamento impulsivo = 0.0
+ Porcentagem de vitorias por comportamento exigente = 0.0
+ Porcentagem de vitorias por comportamento cauteloso = 0.0
+ Porcentagem de vitorias por comportamento aleatorio = 1010.0

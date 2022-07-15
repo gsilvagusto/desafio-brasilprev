@@ -5,6 +5,7 @@ from app.bo.bo_jogo import Jogo
 from app.comportamento import Comportameto
 from app.domains.domains_jogador import Jogador
 from app.utils import probabilidade_50
+from estatisticas.analise_dados import gerar_analise
 from estatisticas.dominio_dados import DominioDados
 from estatisticas.repositorio_dados import RepositorioDados
 
@@ -13,7 +14,7 @@ def main():
     numero_simulacoes: int = 0
     lista_dados = list()
 
-    while numero_simulacoes <= 1000:
+    while numero_simulacoes <= 100:
         numero_simulacoes += 1
         # Inicializa o jogo
 
@@ -88,3 +89,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    gerar_analise()
