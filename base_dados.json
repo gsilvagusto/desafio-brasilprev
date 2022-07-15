@@ -1,608 +1,608 @@
 [
   {
-    "id": "e8275d1c-94df-4903-b5ca-8904ae9a564d",
+    "id": "7e3c0e92-9006-4ce2-9d37-59dc43cd84e1",
+    "time_out": false,
+    "turnos": 12,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "39f627ad-32d1-4e9b-900c-b5acd9ace632",
     "time_out": false,
     "turnos": 25,
-    "vencedor": "aleatorio"
+    "vencedor": "exigente"
   },
   {
-    "id": "36c96c79-942d-4f0d-b585-e03c1e0462c9",
-    "time_out": false,
-    "turnos": 28,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "caae0775-5572-4457-9061-0cb5a6aab95f",
-    "time_out": false,
-    "turnos": 27,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "6963861d-274a-43b0-9bf7-aa56f683297d",
-    "time_out": false,
-    "turnos": 37,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "c8119b7f-e815-4558-b578-81111d642654",
-    "time_out": false,
-    "turnos": 34,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "a21ecf01-6292-4546-88ab-ecc36fb0ad63",
-    "time_out": false,
-    "turnos": 26,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "e55bde6e-4134-44e6-88f6-d376b9930cee",
-    "time_out": false,
-    "turnos": 22,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "b060bfe5-c5b0-4bd7-996a-43e87f7aace1",
-    "time_out": false,
-    "turnos": 30,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "61831694-2683-4bb7-b846-9d52dce08cc0",
-    "time_out": false,
-    "turnos": 25,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "8abcda45-0ed0-4bb1-ae75-e7ae7eedb7f6",
-    "time_out": false,
-    "turnos": 27,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "06e5eb75-4f17-4f74-a62f-99f29641ec73",
-    "time_out": false,
-    "turnos": 38,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "7b581ca6-c7ee-4fa5-8310-910d252eb4af",
-    "time_out": false,
-    "turnos": 25,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "ba899bad-9fc2-4f75-9d80-c4c9de56a11d",
-    "time_out": false,
-    "turnos": 34,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "ef81868a-a50c-4255-bd21-f4ea22968526",
-    "time_out": false,
-    "turnos": 38,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "8a1281fe-3994-4e55-bc30-3992cfb54a06",
-    "time_out": false,
-    "turnos": 33,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "7afab60b-6411-4038-9f7c-650eded5250d",
-    "time_out": false,
-    "turnos": 37,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "354f966d-c863-4ede-a0ff-8dc4c58d5051",
-    "time_out": false,
-    "turnos": 46,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "0c711946-bfa8-43c4-a094-19af6ad18a2d",
-    "time_out": false,
-    "turnos": 22,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "13f1108b-ed74-47cc-9dab-74249b002ccd",
-    "time_out": false,
-    "turnos": 22,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "711f249c-729b-4e04-85c8-042210dee971",
-    "time_out": false,
-    "turnos": 17,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "8ca82fb3-0a67-4690-a640-f9107080978c",
-    "time_out": false,
-    "turnos": 24,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "4aa784b1-b71d-4324-8835-d7be5e85e08b",
-    "time_out": false,
-    "turnos": 29,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "081b2a1f-bae7-46ef-a828-e52ef00616af",
-    "time_out": false,
-    "turnos": 36,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "bf3463a2-39a7-45ee-ae1d-043b5e1e5608",
-    "time_out": false,
-    "turnos": 32,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "3275273e-cfc2-417b-806c-4b40e69469ce",
-    "time_out": false,
-    "turnos": 27,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "abcd3a68-1e49-4476-a6e1-b17e8b6687d8",
-    "time_out": false,
-    "turnos": 36,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "c183ee81-4d01-4f48-b7dc-79202eca4b25",
-    "time_out": false,
-    "turnos": 27,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "080de618-fbf6-45f9-9e4c-975f30768112",
-    "time_out": false,
-    "turnos": 33,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "8b475821-9928-449d-b8d5-60dcc858ebae",
-    "time_out": false,
-    "turnos": 27,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "e3411068-e290-4030-a066-ded8b94002f9",
-    "time_out": false,
-    "turnos": 37,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "a126ac8d-3970-4f7a-b965-1c5ca266c8ee",
-    "time_out": false,
-    "turnos": 37,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "c2e7da02-f587-48d1-ae11-aa5a019252c3",
-    "time_out": false,
-    "turnos": 34,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "797ce427-98c3-4626-a9fb-b6facb2930b5",
-    "time_out": false,
-    "turnos": 28,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "ed6e4945-aca6-4371-84c7-e5df97449718",
-    "time_out": false,
-    "turnos": 30,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "e4ad95c7-9e59-4e79-868a-f811c4e984a9",
-    "time_out": false,
-    "turnos": 32,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "5061e1e3-5a0f-4ef0-b047-5f714539e608",
-    "time_out": false,
-    "turnos": 38,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "31c84b52-9d76-4f96-ba97-52da33a26a0a",
-    "time_out": false,
-    "turnos": 23,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "56d53081-a678-4d44-ac1a-d08898d31970",
-    "time_out": false,
-    "turnos": 35,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "b65c8176-129c-4df9-9739-daa5cada611c",
-    "time_out": false,
-    "turnos": 23,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "e2837934-f84d-4646-91a4-3262bb9dc8d0",
-    "time_out": false,
-    "turnos": 31,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "0cdc6af6-814b-4d42-a3e1-0fa40b05be7d",
-    "time_out": false,
-    "turnos": 36,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "c6d8101f-4cf7-438c-9047-382c88ca607c",
-    "time_out": false,
-    "turnos": 25,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "12e1cab5-b75b-4d18-9f0e-ce3321cae851",
-    "time_out": false,
-    "turnos": 23,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "d1b02273-1f39-412a-a058-d05f5b354e4f",
-    "time_out": false,
-    "turnos": 23,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "ad6e3c48-bff3-4c91-ab91-c52c33b7eb95",
-    "time_out": false,
-    "turnos": 49,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "888ee274-8275-4010-ab89-235d621fd9e0",
-    "time_out": false,
-    "turnos": 26,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "dbdc31a6-a05d-4f5f-9bd7-d8809b03c5d1",
-    "time_out": false,
-    "turnos": 26,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "b5b9fdc3-4755-49ce-bdec-764d4f1061ff",
-    "time_out": false,
-    "turnos": 24,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "2da9369f-9da7-44ae-89a9-d06dd91354af",
-    "time_out": false,
-    "turnos": 32,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "0caf460e-226b-4bc0-a574-f28b9e45349e",
-    "time_out": false,
-    "turnos": 30,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "00b9f8a3-6d09-4fbc-a754-534ea90fd839",
-    "time_out": false,
-    "turnos": 36,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "840e9a68-0213-4cf1-8677-c964af308b02",
-    "time_out": false,
-    "turnos": 35,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "2017d1f5-6eca-417f-8620-f39b02c0d2eb",
-    "time_out": false,
-    "turnos": 44,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "985477a2-1833-4408-a2c7-d2bc8e4bea36",
-    "time_out": false,
-    "turnos": 44,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "eb538397-ffb7-4cdd-b271-8fcbdafc5565",
-    "time_out": false,
-    "turnos": 23,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "0404c9c2-2844-4150-a5f3-d157b91263c5",
-    "time_out": false,
-    "turnos": 34,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "33db91ad-d475-4165-976f-c571cb670c67",
-    "time_out": false,
-    "turnos": 30,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "ca46be16-34a3-4eba-928a-7ecb3a9e1942",
-    "time_out": false,
-    "turnos": 34,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "60910f07-e55d-4b3e-8ab8-47c7b486a874",
-    "time_out": false,
-    "turnos": 40,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "57bd801c-82f8-47b9-b687-2b04f029ef95",
-    "time_out": false,
-    "turnos": 28,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "89a4a4a9-5e85-47be-bc7f-d33d9fb4590d",
+    "id": "c906638b-ef83-40c5-8a31-0be16f8dd693",
     "time_out": false,
     "turnos": 18,
     "vencedor": "aleatorio"
   },
   {
-    "id": "90f26203-235c-43dc-9743-da272be927a7",
+    "id": "117575e4-a55c-4b4b-9570-1de409af5ac0",
     "time_out": false,
-    "turnos": 34,
-    "vencedor": "aleatorio"
+    "turnos": 14,
+    "vencedor": "exigente"
   },
   {
-    "id": "86fcfdfd-e6ae-499a-9da4-78422d650e21",
+    "id": "c3812ae9-8b45-432c-b53e-15c7ee3d5650",
+    "time_out": false,
+    "turnos": 18,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "f6f1f6c3-7693-43ea-9fd9-e458e26f9e1d",
     "time_out": false,
     "turnos": 28,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "4d7df12e-7646-4c8d-8dee-8e790ae466a0",
+    "time_out": false,
+    "turnos": 13,
     "vencedor": "aleatorio"
   },
   {
-    "id": "73458a70-2153-42bb-afac-29995d732bfd",
+    "id": "a1fdbaed-4f2b-4b63-8de2-bca843243147",
+    "time_out": false,
+    "turnos": 27,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "e3cb5bfd-7340-498a-a046-b7d91c339371",
+    "time_out": false,
+    "turnos": 24,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "aacd0d34-64f8-49a8-9dd2-9f07921817b5",
+    "time_out": false,
+    "turnos": 26,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "4d8e942b-47ba-46c4-8600-a9492c86acb6",
+    "time_out": false,
+    "turnos": 11,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "3efcc6ff-809f-4e5e-8f53-f748fb408ee6",
+    "time_out": false,
+    "turnos": 23,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "bdd2bd4f-55d5-4ccc-82f7-076426cae636",
+    "time_out": false,
+    "turnos": 29,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "263ed46f-7581-44f6-8dba-81d987f80218",
+    "time_out": false,
+    "turnos": 22,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "d6b140c5-ca07-4c40-ae8e-0a522558e044",
+    "time_out": false,
+    "turnos": 17,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "f92b322c-ae18-4178-9eac-c76a01e21761",
+    "time_out": false,
+    "turnos": 15,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "645a933a-b392-404e-b3d4-f7ee5787761b",
+    "time_out": false,
+    "turnos": 30,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "ae702c4e-1ebc-47aa-9f24-e0585f9faeca",
+    "time_out": false,
+    "turnos": 16,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "ea0db42f-4534-4745-a101-0333af237d56",
+    "time_out": false,
+    "turnos": 32,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "4a017ab0-c9a1-479d-9fa2-9395b9dbd95c",
+    "time_out": false,
+    "turnos": 32,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "fec12369-06a4-411f-9e6f-1d3dfec64aa1",
+    "time_out": false,
+    "turnos": 28,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "7e3ce2f6-d88a-4f20-b125-1c2dcbc6fa1f",
+    "time_out": false,
+    "turnos": 17,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "99d52aa3-8de1-43f4-be39-1549650f2ae4",
+    "time_out": false,
+    "turnos": 32,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "db9290e6-a880-4a57-b8e3-ff552f70f6f1",
+    "time_out": false,
+    "turnos": 25,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "e25d970c-20ac-4b86-ac5f-d5d42b83a8c1",
     "time_out": false,
     "turnos": 20,
     "vencedor": "aleatorio"
   },
   {
-    "id": "59e6a9c5-8987-4c03-baec-085dedd2cd4b",
+    "id": "909701cd-334a-41fb-bd1d-4de867f2a842",
     "time_out": false,
-    "turnos": 30,
-    "vencedor": "aleatorio"
+    "turnos": 28,
+    "vencedor": "exigente"
   },
   {
-    "id": "f0d714e0-e26e-45e8-9d98-5033ff55f269",
+    "id": "c0235a86-9388-4f99-a182-322415062563",
     "time_out": false,
-    "turnos": 18,
-    "vencedor": "aleatorio"
+    "turnos": 14,
+    "vencedor": "impulsivo"
   },
   {
-    "id": "6b7da7f3-fc19-471f-9ed1-687c7e017d99",
+    "id": "24f59a3d-ef55-4b92-8f0a-e8fa00a8c66b",
     "time_out": false,
-    "turnos": 35,
-    "vencedor": "aleatorio"
+    "turnos": 27,
+    "vencedor": "impulsivo"
   },
   {
-    "id": "7738b642-6c1b-42c4-b884-552af8f00f1a",
+    "id": "1edaef7a-6f71-40ec-84d4-c621d5e95f60",
     "time_out": false,
     "turnos": 34,
     "vencedor": "aleatorio"
   },
   {
-    "id": "b1a2e22c-e5ec-4423-aa2b-575972b4d49d",
+    "id": "86bb671a-e1e9-4140-904b-1d929c24890d",
+    "time_out": false,
+    "turnos": 18,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "ba7f3687-06f4-4792-a3c4-8d93e99832c6",
+    "time_out": false,
+    "turnos": 27,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "eb729bbc-862f-46aa-9aef-83b11f2eeba4",
+    "time_out": false,
+    "turnos": 19,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "c2330a0c-6e85-44cc-ac0a-43eeb0a27c4a",
+    "time_out": false,
+    "turnos": 27,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "be1759fd-a720-4e98-ac34-4779bc382ee5",
+    "time_out": false,
+    "turnos": 17,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "fd899264-22e7-485e-928b-73081186f4e5",
+    "time_out": false,
+    "turnos": 17,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "ad68fbd7-3b0f-436b-8aa6-60c8bb21b887",
+    "time_out": false,
+    "turnos": 11,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "6714b4c0-bef2-45e1-ad1e-5a1ca333d645",
+    "time_out": false,
+    "turnos": 18,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "28901ff9-0887-4bc3-870d-02fb0000355f",
+    "time_out": false,
+    "turnos": 32,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "61627aa8-f611-4173-8577-e8f8ac203542",
+    "time_out": false,
+    "turnos": 25,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "2fc36f6b-37b1-45b2-9ea1-a6c76b58cb4b",
+    "time_out": false,
+    "turnos": 16,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "6d9fc19e-def7-45b9-90f3-6ed007aef2f7",
     "time_out": false,
     "turnos": 27,
     "vencedor": "aleatorio"
   },
   {
-    "id": "c10ed663-dc9c-4b11-96e1-056ed773e23a",
+    "id": "91d072cd-f1a0-40b9-a2c7-91168d08461d",
     "time_out": false,
-    "turnos": 42,
+    "turnos": 22,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "fbb4c76f-cf6a-4d8a-8105-2252ffa0cb8c",
+    "time_out": false,
+    "turnos": 25,
     "vencedor": "aleatorio"
   },
   {
-    "id": "8dd0417e-2cdf-4590-a997-a15c61bd7c57",
+    "id": "f600d43f-2faf-407e-a5e4-e7b24c4fb3e5",
     "time_out": false,
-    "turnos": 29,
+    "turnos": 27,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "8c2e11ff-c993-41c2-8d66-c4180cdb9708",
+    "time_out": false,
+    "turnos": 16,
     "vencedor": "aleatorio"
   },
   {
-    "id": "fbb475d3-414e-478b-8f03-1c329c62083c",
-    "time_out": false,
-    "turnos": 36,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "2b3aa99f-6b7c-4170-b198-27d9a24a091c",
-    "time_out": false,
-    "turnos": 31,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "3e3a1549-2484-444a-af2b-ab56434d4744",
-    "time_out": false,
-    "turnos": 40,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "4d9d9e48-c00f-4477-b9ec-ae656dcb1636",
+    "id": "524b0904-df4a-479a-b3d9-7efef6f88598",
     "time_out": false,
     "turnos": 29,
-    "vencedor": "aleatorio"
+    "vencedor": "exigente"
   },
   {
-    "id": "e4b1fe5f-c1b6-4061-b545-715dfdfbdf20",
+    "id": "28a09f54-57b7-461c-9571-1c6c9cd126d5",
+    "time_out": false,
+    "turnos": 22,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "18a00880-ae01-437f-aa55-6d7f2c9fd840",
+    "time_out": false,
+    "turnos": 17,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "97debaa3-3830-4e9e-9019-b20d8bf2202d",
+    "time_out": false,
+    "turnos": 22,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "d8c06d67-c72e-46be-920e-ccae1f6c32f8",
+    "time_out": false,
+    "turnos": 17,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "172ef6dc-4e23-44ba-8f60-73d4c14026e0",
     "time_out": false,
     "turnos": 24,
-    "vencedor": "aleatorio"
+    "vencedor": "cauteloso"
   },
   {
-    "id": "07bde5ea-e3b9-465d-af24-588daff329a8",
+    "id": "ddd18668-ca4b-4f4c-ad89-0723f7db82dc",
+    "time_out": false,
+    "turnos": 24,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "5e6161aa-6529-440f-b1b0-dd956f70bb19",
     "time_out": false,
     "turnos": 25,
-    "vencedor": "aleatorio"
+    "vencedor": "exigente"
   },
   {
-    "id": "efc4b57d-3c6c-4dde-b927-7de47a8d3f8d",
+    "id": "404f36fb-c89f-4628-828d-3fe88e2d069e",
     "time_out": false,
-    "turnos": 33,
-    "vencedor": "aleatorio"
+    "turnos": 18,
+    "vencedor": "cauteloso"
   },
   {
-    "id": "10173b45-ef92-4a91-a7b0-f3a83c56a28b",
-    "time_out": false,
-    "turnos": 38,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "dd94b56e-8ee1-4ac4-9d1a-957e4c1b6c49",
-    "time_out": false,
-    "turnos": 27,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "56ecb8de-4f4b-429e-8c34-625c99c12c5e",
-    "time_out": false,
-    "turnos": 35,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "3c64368e-c55d-45ec-a95f-c9d7bd4b4b6a",
-    "time_out": false,
-    "turnos": 50,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "63d619c4-794b-4326-b80a-cd594b6aa816",
-    "time_out": false,
-    "turnos": 29,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "88220791-148a-45fa-a182-b9803fd76b96",
-    "time_out": false,
-    "turnos": 25,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "de539622-0e40-4e89-9b86-0ea44c971b5a",
-    "time_out": false,
-    "turnos": 39,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "08c1198d-17ff-4412-b246-88db93a2e315",
-    "time_out": false,
-    "turnos": 43,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "be2330d5-2682-4ba0-b69e-f726e863d513",
-    "time_out": false,
-    "turnos": 35,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "cd90437c-3f73-44d5-ab31-dcabdf9f90da",
-    "time_out": false,
-    "turnos": 33,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "3d58f2c3-35ab-43a3-8132-d162cd9f44c5",
+    "id": "116a0946-888c-4f01-aea5-d6634fca06b1",
     "time_out": false,
     "turnos": 28,
     "vencedor": "aleatorio"
   },
   {
-    "id": "8e5db1d8-ba56-47ff-8ebc-447743628efa",
+    "id": "4710641a-31bc-455f-b093-dd323d223d93",
     "time_out": false,
-    "turnos": 41,
+    "turnos": 18,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "147cee8e-7b3a-4940-81c1-c104741d94e4",
+    "time_out": false,
+    "turnos": 20,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "826e6c6a-fee7-4c8b-82f0-964bd7dc07c4",
+    "time_out": false,
+    "turnos": 21,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "5ea06c19-37f2-42cd-aa1b-c21d8e315481",
+    "time_out": false,
+    "turnos": 18,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "d31f3c8c-a2c1-42f0-acdc-10776bd0fd8e",
+    "time_out": false,
+    "turnos": 14,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "811b59c5-68d0-4371-842c-c902be1dd85f",
+    "time_out": false,
+    "turnos": 32,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "01b6945f-2ba6-4a23-b90f-7a5b9f314b19",
+    "time_out": false,
+    "turnos": 23,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "e46376ce-fd8b-43ee-bcc3-455902d5ad98",
+    "time_out": false,
+    "turnos": 28,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "7fefb0ee-5c3b-4159-a436-c2afcffdda13",
+    "time_out": false,
+    "turnos": 11,
     "vencedor": "aleatorio"
   },
   {
-    "id": "2e42ce93-2bc5-43fb-adbc-57bcc6d32ef9",
+    "id": "42a09ceb-423e-43ab-a77a-5aa7b93fefbc",
     "time_out": false,
-    "turnos": 37,
+    "turnos": 19,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "7ccd3bf6-64ed-4e15-9bcd-a03984bb43d9",
+    "time_out": false,
+    "turnos": 24,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "7bc6c65b-7ab5-4038-9d8d-f1876f7f7636",
+    "time_out": false,
+    "turnos": 23,
     "vencedor": "aleatorio"
   },
   {
-    "id": "ab0b4f30-deb3-4e6e-955a-6d499693c0e2",
+    "id": "c48e2c05-bbbf-4d38-9904-f8a81a0f120c",
     "time_out": false,
-    "turnos": 30,
-    "vencedor": "aleatorio"
+    "turnos": 20,
+    "vencedor": "cauteloso"
   },
   {
-    "id": "fca6bb90-255b-48ef-834d-613708b5c4fa",
-    "time_out": false,
-    "turnos": 25,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "8b8bd59c-4785-4f37-a0b4-6a7d35f35b94",
-    "time_out": false,
-    "turnos": 36,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "a2f047c6-20ef-4747-a72b-e66028310ee3",
-    "time_out": false,
-    "turnos": 31,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "73604c4b-346d-4bb9-8325-3359fee7f0a1",
-    "time_out": false,
-    "turnos": 50,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "ea8cbe7b-24dc-498b-a63c-ffb05998bbe1",
-    "time_out": false,
-    "turnos": 25,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "83b096f9-0e98-41a6-9d67-984446157e03",
-    "time_out": false,
-    "turnos": 34,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "cd5d141a-047d-4fca-89ee-051a1eccab33",
-    "time_out": false,
-    "turnos": 40,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "88e42f2e-6393-4d36-b05c-1588df48cd49",
-    "time_out": false,
-    "turnos": 48,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "9cc0a425-e64e-44b6-b7a7-41df5e9bce1d",
+    "id": "d5cfdf2c-e163-4c49-b5db-ef796313d68d",
     "time_out": false,
     "turnos": 21,
     "vencedor": "aleatorio"
+  },
+  {
+    "id": "7af76a93-fb12-4be2-aabb-159cf7b4246b",
+    "time_out": false,
+    "turnos": 21,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "76fb7d18-f20b-41a8-b876-6cf1d5c369c6",
+    "time_out": false,
+    "turnos": 32,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "1b63c06e-a79e-4f96-afba-dd6df8f95702",
+    "time_out": false,
+    "turnos": 20,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "32c67815-407d-4d85-b34b-32e0ec041462",
+    "time_out": false,
+    "turnos": 28,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "b7d313e9-5c35-4360-9d36-a1e2773cab62",
+    "time_out": false,
+    "turnos": 15,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "14bb37df-17c2-4254-8e4d-1d3d02f28429",
+    "time_out": false,
+    "turnos": 28,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "401b8992-f956-4d29-a96f-ed4e3b216575",
+    "time_out": false,
+    "turnos": 27,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "39e814ad-69a6-460b-89aa-fb07b7953c6e",
+    "time_out": false,
+    "turnos": 31,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "7468a214-66ff-4a55-92f7-8674e303d16d",
+    "time_out": false,
+    "turnos": 21,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "249c4c7e-5d27-4724-82e3-cfc3b783f1bd",
+    "time_out": false,
+    "turnos": 22,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "dbcecb6a-466d-4671-850b-f4fd657871d0",
+    "time_out": false,
+    "turnos": 31,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "99a00cbc-d31e-4484-820c-311f42965f2c",
+    "time_out": false,
+    "turnos": 26,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "ca1e1316-2840-45c2-a807-34e6ead6a36e",
+    "time_out": false,
+    "turnos": 18,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "7737cd13-0a90-4034-8fd2-208a1ab95408",
+    "time_out": false,
+    "turnos": 10,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "4e3cd223-f959-4497-b31c-db9e38ae2749",
+    "time_out": false,
+    "turnos": 27,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "5b203238-df3f-44c1-8b48-abce301298f7",
+    "time_out": false,
+    "turnos": 23,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "0c07df84-cd0f-43ff-9b7b-898907136b89",
+    "time_out": false,
+    "turnos": 22,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "e48b4f81-8eb3-46ae-a709-b4f3a69ae889",
+    "time_out": false,
+    "turnos": 21,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "302ea534-5ff9-48b8-9353-55b8b9724e27",
+    "time_out": false,
+    "turnos": 21,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "247a5238-5f95-45b8-9fce-5273c725a884",
+    "time_out": false,
+    "turnos": 22,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "6fd91b6b-bb84-4dde-8198-cc1d2ff89dfe",
+    "time_out": false,
+    "turnos": 14,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "f2d261ba-14a9-41f5-b525-da96f55df2e9",
+    "time_out": false,
+    "turnos": 18,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "50dc48e9-9470-4a6b-9404-5915ff5374ee",
+    "time_out": false,
+    "turnos": 29,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "be3ef5c9-affa-494c-9647-034805b39b27",
+    "time_out": false,
+    "turnos": 31,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "a8c0bc73-9b44-4b5c-b046-6230a8f41c4d",
+    "time_out": false,
+    "turnos": 27,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "0ae940bf-88fd-4a42-a541-ecc45ccc217c",
+    "time_out": false,
+    "turnos": 26,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "ce4d8818-a947-4a42-97ef-2754ec094fec",
+    "time_out": false,
+    "turnos": 25,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "1a36831c-febc-435e-aba3-128260da0ad1",
+    "time_out": false,
+    "turnos": 18,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "94c5af48-f901-4ba5-9f7c-01113f64191a",
+    "time_out": false,
+    "turnos": 38,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "d34e56bb-211a-44ca-877c-8665a96e9bf1",
+    "time_out": false,
+    "turnos": 22,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "03c9f82e-ec5c-443c-a20c-3a0984fd5d71",
+    "time_out": false,
+    "turnos": 16,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "f14d2989-2a53-45a3-8e4e-e43813a9491c",
+    "time_out": false,
+    "turnos": 31,
+    "vencedor": "exigente"
   }
 ]
