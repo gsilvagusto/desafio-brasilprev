@@ -10,5 +10,8 @@ requirements-dev:
 
 lint: 
 	isort .
-	black app 
+	isort tests
+	black .
+	black tests
 	flake8 app
+	flake8 estatisticas

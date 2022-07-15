@@ -10,11 +10,10 @@ def test_comportamento_impulsivo():
     prop = Tabuleiro.tabuleiro[posicao]
     probabilidade_50 = 2
     msg = jogador.comportamento(Comportameto(jogador, posicao, probabilidade_50))
-    assert msg == 'Sucesso'
+    assert msg == "Sucesso"
     assert prop in jogador.lista_propriedades
 
 
-    
 def test_comportamento_exigente():
     jogador = JogadorBo.jogador_preto
     dado_resultado = 3
@@ -22,9 +21,9 @@ def test_comportamento_exigente():
     prop = Tabuleiro.tabuleiro[posicao]
     probabilidade_50 = 2
     msg = jogador.comportamento(Comportameto(jogador, posicao, probabilidade_50))
-    assert msg == 'Sucesso'
+    assert msg == "Sucesso"
     assert prop in jogador.lista_propriedades
-    
+
 
 def test_comportamento_cauteloso():
     jogador = JogadorBo.jogador_vermelho
@@ -33,17 +32,16 @@ def test_comportamento_cauteloso():
     prop = Tabuleiro.tabuleiro[posicao]
     probabilidade_50 = 2
     msg = jogador.comportamento(Comportameto(jogador, posicao, probabilidade_50))
-    assert msg == 'Sucesso'
+    assert msg == "Sucesso"
     assert prop in jogador.lista_propriedades
-    
-    
+
+
 def test_comportamento_aleatorio():
     jogador = JogadorBo.jogador_branco
     dado_resultado = 1
     posicao = JogadorBo.mover(jogador, dado_resultado)
     prop = Tabuleiro.tabuleiro[posicao]
     probabilidade_50 = 2
-    msg = jogador.comportamento(Comportameto(jogador, posicao, probabilidade_50))    
-    assert msg == 'Sucesso'
+    msg = jogador.comportamento(Comportameto(jogador, posicao, probabilidade_50))
+    assert msg == "Sucesso"
     assert prop in jogador.lista_propriedades
-    
