@@ -13,7 +13,7 @@ def main():
     numero_simulacoes: int = 0
     lista_dados = list()
 
-    while numero_simulacoes <= 9:
+    while numero_simulacoes <= 1000:
         numero_simulacoes += 1
         # Inicializa o jogo
 
@@ -53,7 +53,7 @@ def main():
 
             Jogo.nova_rodada(Jogo)
 
-        if Jogo.rodada >= 20:
+        if Jogo.rodada >= 1000:
             id = str(uuid4())
             vencedor = Jogo.ordenar()
             class_dados = DominioDados(
