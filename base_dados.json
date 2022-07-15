@@ -1,608 +1,608 @@
 [
   {
-    "id": "7e3c0e92-9006-4ce2-9d37-59dc43cd84e1",
+    "id": "1b742b0e-b1e1-4aaf-8f34-1c0b900b6b3f",
     "time_out": false,
-    "turnos": 12,
+    "turnos": 15,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "b0810636-8d42-4e57-b4b3-294a84fff64c",
+    "time_out": false,
+    "turnos": 18,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "05033d03-0067-44f7-a0c7-403e29de119d",
+    "time_out": false,
+    "turnos": 18,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "b533088b-6476-444b-87d2-f259efe21e08",
+    "time_out": false,
+    "turnos": 20,
     "vencedor": "aleatorio"
   },
   {
-    "id": "39f627ad-32d1-4e9b-900c-b5acd9ace632",
+    "id": "80c196cc-d1b2-4786-80df-9129844a7afc",
     "time_out": false,
     "turnos": 25,
     "vencedor": "exigente"
   },
   {
-    "id": "c906638b-ef83-40c5-8a31-0be16f8dd693",
-    "time_out": false,
-    "turnos": 18,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "117575e4-a55c-4b4b-9570-1de409af5ac0",
-    "time_out": false,
-    "turnos": 14,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "c3812ae9-8b45-432c-b53e-15c7ee3d5650",
-    "time_out": false,
-    "turnos": 18,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "f6f1f6c3-7693-43ea-9fd9-e458e26f9e1d",
-    "time_out": false,
-    "turnos": 28,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "4d7df12e-7646-4c8d-8dee-8e790ae466a0",
+    "id": "7890ccdc-50fb-43fd-979d-8dcb6b1848dd",
     "time_out": false,
     "turnos": 13,
     "vencedor": "aleatorio"
   },
   {
-    "id": "a1fdbaed-4f2b-4b63-8de2-bca843243147",
+    "id": "e13130e5-7986-4f50-9538-1b3bbad80ab1",
     "time_out": false,
-    "turnos": 27,
+    "turnos": 32,
     "vencedor": "impulsivo"
   },
   {
-    "id": "e3cb5bfd-7340-498a-a046-b7d91c339371",
-    "time_out": false,
-    "turnos": 24,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "aacd0d34-64f8-49a8-9dd2-9f07921817b5",
-    "time_out": false,
-    "turnos": 26,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "4d8e942b-47ba-46c4-8600-a9492c86acb6",
-    "time_out": false,
-    "turnos": 11,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "3efcc6ff-809f-4e5e-8f53-f748fb408ee6",
-    "time_out": false,
-    "turnos": 23,
-    "vencedor": "impulsivo"
-  },
-  {
-    "id": "bdd2bd4f-55d5-4ccc-82f7-076426cae636",
+    "id": "c48cd4ff-ad48-4f93-be13-acfbc05dd701",
     "time_out": false,
     "turnos": 29,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "1191982b-0ba8-4994-9063-477ab291f75d",
+    "time_out": false,
+    "turnos": 27,
     "vencedor": "exigente"
   },
   {
-    "id": "263ed46f-7581-44f6-8dba-81d987f80218",
+    "id": "9e0613c0-93c5-4fc3-a267-64fc7fd7454a",
     "time_out": false,
-    "turnos": 22,
+    "turnos": 27,
     "vencedor": "cauteloso"
   },
   {
-    "id": "d6b140c5-ca07-4c40-ae8e-0a522558e044",
+    "id": "32fe8dd9-aa44-42bf-8e12-06fb4a996873",
+    "time_out": false,
+    "turnos": 26,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "ebcc7bf5-c1f2-4cef-99ff-63b6834028a2",
+    "time_out": false,
+    "turnos": 25,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "b7de9da9-cedb-41d6-b92e-1559a036a1b6",
+    "time_out": false,
+    "turnos": 19,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "ba48f50e-7a50-421f-98f9-b8f05f236c4c",
+    "time_out": false,
+    "turnos": 32,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "3bcc127a-5644-4bad-9937-ad830380b3f3",
+    "time_out": false,
+    "turnos": 19,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "9bd24d83-01cf-4485-931f-f91ad6602078",
+    "time_out": false,
+    "turnos": 23,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "26c7c653-8bd1-4f46-9bf6-d6f02b53a553",
+    "time_out": false,
+    "turnos": 28,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "025a68ff-60fb-4834-b2dd-6cc3e9c41911",
+    "time_out": false,
+    "turnos": 28,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "0cae2681-7aad-4077-abc2-b6031d73a90b",
+    "time_out": false,
+    "turnos": 19,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "8b5d5ad6-cb3c-4361-b365-42ce63516fe4",
+    "time_out": false,
+    "turnos": 14,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "10c03f05-74e7-4a17-86a1-a6e878e8b921",
     "time_out": false,
     "turnos": 17,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "56412de2-d7e3-40e7-82b3-5c9a4c085fd9",
+    "time_out": false,
+    "turnos": 36,
     "vencedor": "cauteloso"
   },
   {
-    "id": "f92b322c-ae18-4178-9eac-c76a01e21761",
+    "id": "e057939a-2e15-4ab1-88ad-03d725943fb3",
+    "time_out": false,
+    "turnos": 13,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "86019301-ea22-4a30-b9f0-a16d16525945",
+    "time_out": false,
+    "turnos": 14,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "e2f50e98-16c0-449e-87a9-c1fbac12f179",
     "time_out": false,
     "turnos": 15,
     "vencedor": "impulsivo"
   },
   {
-    "id": "645a933a-b392-404e-b3d4-f7ee5787761b",
+    "id": "f3d4f725-8392-4f3c-a17f-0263e271a851",
+    "time_out": false,
+    "turnos": 35,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "7bc4bea1-5d15-4b91-a7fc-fe6ac354c8c8",
+    "time_out": false,
+    "turnos": 27,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "8d772238-800d-40cd-a034-a511b5756c4a",
+    "time_out": false,
+    "turnos": 22,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "b67b9baf-d633-4ebe-bd6f-0a0a0177f9eb",
+    "time_out": false,
+    "turnos": 25,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "345ae05c-caa4-48f8-8ce7-1bc7abe41c2d",
+    "time_out": false,
+    "turnos": 28,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "7a6c696b-dd1d-4b7b-986f-02fc7a73941a",
+    "time_out": false,
+    "turnos": 21,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "5418c6a0-35e1-4cac-bd3f-605e6dc31cd2",
+    "time_out": false,
+    "turnos": 18,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "d8f8c1d7-e888-4ef0-a628-963151ba87c7",
+    "time_out": false,
+    "turnos": 23,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "79d269a3-dc7f-42e3-ac64-b7e24a5555de",
+    "time_out": false,
+    "turnos": 17,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "07f42471-4145-4191-9934-bee740378540",
+    "time_out": false,
+    "turnos": 36,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "77fd0447-979b-4dda-bcdb-82e7d4b35706",
+    "time_out": false,
+    "turnos": 19,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "f3ebbdd6-5e92-46e7-b355-ef0d954e7529",
     "time_out": false,
     "turnos": 30,
     "vencedor": "cauteloso"
   },
   {
-    "id": "ae702c4e-1ebc-47aa-9f24-e0585f9faeca",
+    "id": "73b7860c-4792-4c5f-95e8-be4c29b3e798",
     "time_out": false,
-    "turnos": 16,
+    "turnos": 17,
     "vencedor": "cauteloso"
   },
   {
-    "id": "ea0db42f-4534-4745-a101-0333af237d56",
+    "id": "540f0797-730e-42ac-9d82-985496aff7fa",
     "time_out": false,
-    "turnos": 32,
-    "vencedor": "impulsivo"
+    "turnos": 31,
+    "vencedor": "cauteloso"
   },
   {
-    "id": "4a017ab0-c9a1-479d-9fa2-9395b9dbd95c",
+    "id": "a7bed1d5-faa4-4551-93d5-064af3596f68",
     "time_out": false,
-    "turnos": 32,
+    "turnos": 18,
     "vencedor": "exigente"
   },
   {
-    "id": "fec12369-06a4-411f-9e6f-1d3dfec64aa1",
+    "id": "b605635d-009f-4b27-8740-33222a34248d",
+    "time_out": false,
+    "turnos": 21,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "a82defc8-882d-4af7-8078-705c4edb4028",
+    "time_out": false,
+    "turnos": 28,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "491bd6d9-fc0e-48ca-ae78-14a58c4515af",
+    "time_out": false,
+    "turnos": 24,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "2a8e0bd0-3d06-4917-8543-98f017d7d2a0",
+    "time_out": false,
+    "turnos": 20,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "0d4a1e89-81c4-4698-bf4f-0a30a74eabc9",
+    "time_out": false,
+    "turnos": 29,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "8b08e330-df4a-4732-8def-ea66640875f0",
+    "time_out": false,
+    "turnos": 24,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "d8cdae9a-8f79-47a4-b32a-b45f0828872c",
+    "time_out": false,
+    "turnos": 18,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "9ce5e7ff-db6d-4820-be4f-12a783f21177",
+    "time_out": false,
+    "turnos": 30,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "90761ab8-1996-4ae4-8697-59713e3b7d57",
+    "time_out": false,
+    "turnos": 26,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "96cc77f9-2461-49d8-bfc5-2705d820810b",
+    "time_out": false,
+    "turnos": 20,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "cb241913-8c33-4a2e-a73d-848eb5506131",
+    "time_out": false,
+    "turnos": 21,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "e06ea072-2140-4203-a239-25aebd2be8c1",
+    "time_out": false,
+    "turnos": 27,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "ea1e41f7-be79-4d55-b124-185b9fac0f28",
     "time_out": false,
     "turnos": 28,
     "vencedor": "impulsivo"
   },
   {
-    "id": "7e3ce2f6-d88a-4f20-b125-1c2dcbc6fa1f",
+    "id": "c9c6d385-0c32-49bb-b817-73042e5ac907",
     "time_out": false,
-    "turnos": 17,
-    "vencedor": "impulsivo"
-  },
-  {
-    "id": "99d52aa3-8de1-43f4-be39-1549650f2ae4",
-    "time_out": false,
-    "turnos": 32,
+    "turnos": 30,
     "vencedor": "exigente"
   },
   {
-    "id": "db9290e6-a880-4a57-b8e3-ff552f70f6f1",
+    "id": "8814f65f-eb05-445a-80a7-e4a37c88740e",
     "time_out": false,
     "turnos": 25,
     "vencedor": "cauteloso"
   },
   {
-    "id": "e25d970c-20ac-4b86-ac5f-d5d42b83a8c1",
-    "time_out": false,
-    "turnos": 20,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "909701cd-334a-41fb-bd1d-4de867f2a842",
+    "id": "2351610b-aae7-4113-b6d3-cb76163354ad",
     "time_out": false,
     "turnos": 28,
     "vencedor": "exigente"
   },
   {
-    "id": "c0235a86-9388-4f99-a182-322415062563",
+    "id": "58965708-7bba-439b-8227-81eb88759b50",
     "time_out": false,
-    "turnos": 14,
+    "turnos": 21,
     "vencedor": "impulsivo"
   },
   {
-    "id": "24f59a3d-ef55-4b92-8f0a-e8fa00a8c66b",
+    "id": "f7b74f72-3b77-466d-825d-e11618b262a9",
     "time_out": false,
-    "turnos": 27,
+    "turnos": 24,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "70628cf6-81fc-4fab-ab44-c4f16dfcb336",
+    "time_out": false,
+    "turnos": 24,
     "vencedor": "impulsivo"
   },
   {
-    "id": "1edaef7a-6f71-40ec-84d4-c621d5e95f60",
+    "id": "de203554-052d-46db-a3ba-d77feb103d9b",
+    "time_out": false,
+    "turnos": 37,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "6bda4fcf-92ed-474c-8750-ae1b3c116e05",
+    "time_out": false,
+    "turnos": 28,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "b70f0692-dd96-48aa-bd51-eef02e9a279f",
+    "time_out": false,
+    "turnos": 18,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "55a0d6c7-86f3-4595-b46c-6641fa62ef6e",
+    "time_out": false,
+    "turnos": 40,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "3857338a-2c0b-4ba5-a229-073502ab04ed",
+    "time_out": false,
+    "turnos": 18,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "dc022b4a-a5e1-4b9c-ab39-8b6f907513c7",
+    "time_out": false,
+    "turnos": 33,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "6a45b55b-fc27-44f8-a7ab-32f0825d7694",
+    "time_out": false,
+    "turnos": 17,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "b248fc18-7728-44ab-91b5-ddbd2397c174",
+    "time_out": false,
+    "turnos": 31,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "209227ff-fc17-45fc-966c-e5a891a3f202",
+    "time_out": false,
+    "turnos": 23,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "35f5eced-218e-41e4-a484-4944bbb937f6",
     "time_out": false,
     "turnos": 34,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "aebd53d4-b810-4fa9-953c-52ba7fc7d447",
+    "time_out": false,
+    "turnos": 13,
     "vencedor": "aleatorio"
   },
   {
-    "id": "86bb671a-e1e9-4140-904b-1d929c24890d",
+    "id": "e74fa216-2bf4-4323-8646-34c5f3ec1a60",
     "time_out": false,
-    "turnos": 18,
+    "turnos": 28,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "937bde62-f3cf-4181-ab09-e616506b896d",
+    "time_out": false,
+    "turnos": 31,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "fee799a4-debf-4803-ab5c-78065191255e",
+    "time_out": false,
+    "turnos": 20,
     "vencedor": "impulsivo"
   },
   {
-    "id": "ba7f3687-06f4-4792-a3c4-8d93e99832c6",
-    "time_out": false,
-    "turnos": 27,
-    "vencedor": "impulsivo"
-  },
-  {
-    "id": "eb729bbc-862f-46aa-9aef-83b11f2eeba4",
+    "id": "3b770ceb-3ff5-4290-a32a-d81d10cefb46",
     "time_out": false,
     "turnos": 19,
-    "vencedor": "impulsivo"
-  },
-  {
-    "id": "c2330a0c-6e85-44cc-ac0a-43eeb0a27c4a",
-    "time_out": false,
-    "turnos": 27,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "be1759fd-a720-4e98-ac34-4779bc382ee5",
-    "time_out": false,
-    "turnos": 17,
     "vencedor": "aleatorio"
   },
   {
-    "id": "fd899264-22e7-485e-928b-73081186f4e5",
-    "time_out": false,
-    "turnos": 17,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "ad68fbd7-3b0f-436b-8aa6-60c8bb21b887",
-    "time_out": false,
-    "turnos": 11,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "6714b4c0-bef2-45e1-ad1e-5a1ca333d645",
-    "time_out": false,
-    "turnos": 18,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "28901ff9-0887-4bc3-870d-02fb0000355f",
-    "time_out": false,
-    "turnos": 32,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "61627aa8-f611-4173-8577-e8f8ac203542",
-    "time_out": false,
-    "turnos": 25,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "2fc36f6b-37b1-45b2-9ea1-a6c76b58cb4b",
-    "time_out": false,
-    "turnos": 16,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "6d9fc19e-def7-45b9-90f3-6ed007aef2f7",
-    "time_out": false,
-    "turnos": 27,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "91d072cd-f1a0-40b9-a2c7-91168d08461d",
-    "time_out": false,
-    "turnos": 22,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "fbb4c76f-cf6a-4d8a-8105-2252ffa0cb8c",
-    "time_out": false,
-    "turnos": 25,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "f600d43f-2faf-407e-a5e4-e7b24c4fb3e5",
+    "id": "462710f0-55ea-42cf-b753-2dfcec9d393d",
     "time_out": false,
     "turnos": 27,
     "vencedor": "exigente"
   },
   {
-    "id": "8c2e11ff-c993-41c2-8d66-c4180cdb9708",
+    "id": "d7d64931-731a-49b5-9702-608f6e9bfa80",
     "time_out": false,
-    "turnos": 16,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "524b0904-df4a-479a-b3d9-7efef6f88598",
-    "time_out": false,
-    "turnos": 29,
+    "turnos": 27,
     "vencedor": "exigente"
   },
   {
-    "id": "28a09f54-57b7-461c-9571-1c6c9cd126d5",
-    "time_out": false,
-    "turnos": 22,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "18a00880-ae01-437f-aa55-6d7f2c9fd840",
-    "time_out": false,
-    "turnos": 17,
-    "vencedor": "impulsivo"
-  },
-  {
-    "id": "97debaa3-3830-4e9e-9019-b20d8bf2202d",
-    "time_out": false,
-    "turnos": 22,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "d8c06d67-c72e-46be-920e-ccae1f6c32f8",
-    "time_out": false,
-    "turnos": 17,
-    "vencedor": "impulsivo"
-  },
-  {
-    "id": "172ef6dc-4e23-44ba-8f60-73d4c14026e0",
-    "time_out": false,
-    "turnos": 24,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "ddd18668-ca4b-4f4c-ad89-0723f7db82dc",
-    "time_out": false,
-    "turnos": 24,
-    "vencedor": "impulsivo"
-  },
-  {
-    "id": "5e6161aa-6529-440f-b1b0-dd956f70bb19",
-    "time_out": false,
-    "turnos": 25,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "404f36fb-c89f-4628-828d-3fe88e2d069e",
-    "time_out": false,
-    "turnos": 18,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "116a0946-888c-4f01-aea5-d6634fca06b1",
-    "time_out": false,
-    "turnos": 28,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "4710641a-31bc-455f-b093-dd323d223d93",
-    "time_out": false,
-    "turnos": 18,
-    "vencedor": "impulsivo"
-  },
-  {
-    "id": "147cee8e-7b3a-4940-81c1-c104741d94e4",
-    "time_out": false,
-    "turnos": 20,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "826e6c6a-fee7-4c8b-82f0-964bd7dc07c4",
-    "time_out": false,
-    "turnos": 21,
-    "vencedor": "impulsivo"
-  },
-  {
-    "id": "5ea06c19-37f2-42cd-aa1b-c21d8e315481",
-    "time_out": false,
-    "turnos": 18,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "d31f3c8c-a2c1-42f0-acdc-10776bd0fd8e",
-    "time_out": false,
-    "turnos": 14,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "811b59c5-68d0-4371-842c-c902be1dd85f",
-    "time_out": false,
-    "turnos": 32,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "01b6945f-2ba6-4a23-b90f-7a5b9f314b19",
-    "time_out": false,
-    "turnos": 23,
-    "vencedor": "impulsivo"
-  },
-  {
-    "id": "e46376ce-fd8b-43ee-bcc3-455902d5ad98",
-    "time_out": false,
-    "turnos": 28,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "7fefb0ee-5c3b-4159-a436-c2afcffdda13",
-    "time_out": false,
-    "turnos": 11,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "42a09ceb-423e-43ab-a77a-5aa7b93fefbc",
-    "time_out": false,
-    "turnos": 19,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "7ccd3bf6-64ed-4e15-9bcd-a03984bb43d9",
-    "time_out": false,
-    "turnos": 24,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "7bc6c65b-7ab5-4038-9d8d-f1876f7f7636",
-    "time_out": false,
-    "turnos": 23,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "c48e2c05-bbbf-4d38-9904-f8a81a0f120c",
-    "time_out": false,
-    "turnos": 20,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "d5cfdf2c-e163-4c49-b5db-ef796313d68d",
-    "time_out": false,
-    "turnos": 21,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "7af76a93-fb12-4be2-aabb-159cf7b4246b",
-    "time_out": false,
-    "turnos": 21,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "76fb7d18-f20b-41a8-b876-6cf1d5c369c6",
-    "time_out": false,
-    "turnos": 32,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "1b63c06e-a79e-4f96-afba-dd6df8f95702",
-    "time_out": false,
-    "turnos": 20,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "32c67815-407d-4d85-b34b-32e0ec041462",
-    "time_out": false,
-    "turnos": 28,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "b7d313e9-5c35-4360-9d36-a1e2773cab62",
+    "id": "10402ec8-b73d-4ab8-8f82-735c444b2f20",
     "time_out": false,
     "turnos": 15,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "14bb37df-17c2-4254-8e4d-1d3d02f28429",
-    "time_out": false,
-    "turnos": 28,
     "vencedor": "cauteloso"
   },
   {
-    "id": "401b8992-f956-4d29-a96f-ed4e3b216575",
+    "id": "5afbe22c-c98a-470c-b6c3-7aeb549397dc",
     "time_out": false,
-    "turnos": 27,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "39e814ad-69a6-460b-89aa-fb07b7953c6e",
-    "time_out": false,
-    "turnos": 31,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "7468a214-66ff-4a55-92f7-8674e303d16d",
-    "time_out": false,
-    "turnos": 21,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "249c4c7e-5d27-4724-82e3-cfc3b783f1bd",
-    "time_out": false,
-    "turnos": 22,
+    "turnos": 20,
     "vencedor": "aleatorio"
   },
   {
-    "id": "dbcecb6a-466d-4671-850b-f4fd657871d0",
+    "id": "bb4de940-382a-4890-a844-3b838d81d2e7",
     "time_out": false,
-    "turnos": 31,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "99a00cbc-d31e-4484-820c-311f42965f2c",
-    "time_out": false,
-    "turnos": 26,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "ca1e1316-2840-45c2-a807-34e6ead6a36e",
-    "time_out": false,
-    "turnos": 18,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "7737cd13-0a90-4034-8fd2-208a1ab95408",
-    "time_out": false,
-    "turnos": 10,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "4e3cd223-f959-4497-b31c-db9e38ae2749",
-    "time_out": false,
-    "turnos": 27,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "5b203238-df3f-44c1-8b48-abce301298f7",
-    "time_out": false,
-    "turnos": 23,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "0c07df84-cd0f-43ff-9b7b-898907136b89",
-    "time_out": false,
-    "turnos": 22,
-    "vencedor": "impulsivo"
-  },
-  {
-    "id": "e48b4f81-8eb3-46ae-a709-b4f3a69ae889",
-    "time_out": false,
-    "turnos": 21,
-    "vencedor": "impulsivo"
-  },
-  {
-    "id": "302ea534-5ff9-48b8-9353-55b8b9724e27",
-    "time_out": false,
-    "turnos": 21,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "247a5238-5f95-45b8-9fce-5273c725a884",
-    "time_out": false,
-    "turnos": 22,
+    "turnos": 19,
     "vencedor": "cauteloso"
   },
   {
-    "id": "6fd91b6b-bb84-4dde-8198-cc1d2ff89dfe",
-    "time_out": false,
-    "turnos": 14,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "f2d261ba-14a9-41f5-b525-da96f55df2e9",
-    "time_out": false,
-    "turnos": 18,
-    "vencedor": "aleatorio"
-  },
-  {
-    "id": "50dc48e9-9470-4a6b-9404-5915ff5374ee",
-    "time_out": false,
-    "turnos": 29,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "be3ef5c9-affa-494c-9647-034805b39b27",
-    "time_out": false,
-    "turnos": 31,
-    "vencedor": "cauteloso"
-  },
-  {
-    "id": "a8c0bc73-9b44-4b5c-b046-6230a8f41c4d",
-    "time_out": false,
-    "turnos": 27,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "0ae940bf-88fd-4a42-a541-ecc45ccc217c",
-    "time_out": false,
-    "turnos": 26,
-    "vencedor": "exigente"
-  },
-  {
-    "id": "ce4d8818-a947-4a42-97ef-2754ec094fec",
+    "id": "95843b9c-34a9-4c45-8c59-857fa75a9b16",
     "time_out": false,
     "turnos": 25,
-    "vencedor": "exigente"
+    "vencedor": "aleatorio"
   },
   {
-    "id": "1a36831c-febc-435e-aba3-128260da0ad1",
+    "id": "06b4cb35-b77b-4847-ac9c-f061893cab09",
     "time_out": false,
-    "turnos": 18,
+    "turnos": 19,
     "vencedor": "cauteloso"
   },
   {
-    "id": "94c5af48-f901-4ba5-9f7c-01113f64191a",
+    "id": "0f7163f9-eef0-4a50-948f-4091d90fee2a",
     "time_out": false,
-    "turnos": 38,
+    "turnos": 35,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "114d2b45-6a6f-4657-8041-58e0d1383534",
+    "time_out": false,
+    "turnos": 24,
     "vencedor": "exigente"
   },
   {
-    "id": "d34e56bb-211a-44ca-877c-8665a96e9bf1",
+    "id": "d6211ee8-5c91-4755-ad49-2644f922d029",
+    "time_out": false,
+    "turnos": 27,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "7cbf0a8b-ed94-45c1-a69f-630f0ddea315",
+    "time_out": false,
+    "turnos": 26,
+    "vencedor": "cauteloso"
+  },
+  {
+    "id": "33a5b285-d250-4a80-b8df-8978bb1c02f0",
+    "time_out": false,
+    "turnos": 24,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "c616223a-0a53-4427-8ee8-0212b17cb932",
+    "time_out": false,
+    "turnos": 28,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "c6fe3b34-c77f-447a-8db4-da68e61ff2bd",
+    "time_out": false,
+    "turnos": 19,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "46ee2e3f-561f-4d92-84e1-fb938bdcf351",
+    "time_out": false,
+    "turnos": 30,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "7afff17c-8d55-48e0-8b13-9318763d9f2a",
     "time_out": false,
     "turnos": 22,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "72d03c99-b207-479e-b1e5-37af63b5ee25",
+    "time_out": false,
+    "turnos": 31,
     "vencedor": "exigente"
   },
   {
-    "id": "03c9f82e-ec5c-443c-a20c-3a0984fd5d71",
+    "id": "231453fa-256c-41d5-81fd-00cf91b2db91",
+    "time_out": false,
+    "turnos": 14,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "1f2f709d-4120-48ce-91a7-ff9c131c2360",
+    "time_out": false,
+    "turnos": 32,
+    "vencedor": "impulsivo"
+  },
+  {
+    "id": "a7a55e5b-63fd-4b24-8b8a-d8c54fc295d6",
     "time_out": false,
     "turnos": 16,
     "vencedor": "aleatorio"
   },
   {
-    "id": "f14d2989-2a53-45a3-8e4e-e43813a9491c",
+    "id": "968726b3-2903-4b08-b880-28552270b80a",
     "time_out": false,
-    "turnos": 31,
+    "turnos": 27,
     "vencedor": "exigente"
+  },
+  {
+    "id": "7872c2cb-ecd6-463a-9993-6ec308911bd5",
+    "time_out": false,
+    "turnos": 34,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "0434d44e-70d3-4b49-b4ff-10faeb5251b3",
+    "time_out": false,
+    "turnos": 25,
+    "vencedor": "aleatorio"
+  },
+  {
+    "id": "b6733351-abc2-4a51-bc16-29d7ffbab430",
+    "time_out": false,
+    "turnos": 36,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "89d470e6-4548-4aa3-9a56-2466cbce38e3",
+    "time_out": false,
+    "turnos": 26,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "12fb18a1-8c78-4216-a788-f9bdd085099c",
+    "time_out": false,
+    "turnos": 28,
+    "vencedor": "exigente"
+  },
+  {
+    "id": "1625ea1f-625b-46d6-9f7c-ea19832884b8",
+    "time_out": false,
+    "turnos": 20,
+    "vencedor": "impulsivo"
   }
 ]
