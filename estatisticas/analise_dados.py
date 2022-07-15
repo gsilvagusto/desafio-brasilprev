@@ -39,10 +39,10 @@ partidas_terminadas_time_out = int(time_out_true['time_out'].count()) #informaca
 
 media_turnos = data.turnos.median() # Informacao de quantos turnos em media demmora uma partida
 
-porcetagem_impulsivo = (total_vitorias_impulsivo / 100)*100 #informacao de porcentagem de vitorias por comportamento
-porcetagem_exigente = ( total_vitorias_exigente/ 100)*100 #informacao de porcentagem de vitorias por comportamento
-porcetagem_cauteloso = (total_vitorias_cauteloso / 100)*100 #informacao de porcentagem de vitorias por comportamento
-porcetagem_aleatorio = (total_vitorias_aleatorio / 100)*100 #informacao de porcentagem de vitorias por comportamento
+porcetagem_impulsivo = (total_vitorias_impulsivo / 10)*100 #informacao de porcentagem de vitorias por comportamento
+porcetagem_exigente = ( total_vitorias_exigente/ 10)*100 #informacao de porcentagem de vitorias por comportamento
+porcetagem_cauteloso = (total_vitorias_cauteloso / 10)*100 #informacao de porcentagem de vitorias por comportamento
+porcetagem_aleatorio = (total_vitorias_aleatorio / 10)*100 #informacao de porcentagem de vitorias por comportamento
 
 comportamento_mais_vence = l[0]['comportamento'] #informacao do comportamento que mais vence
 
@@ -57,6 +57,7 @@ lista_analise = [
         {'Porcentagem de vitorias por comportamento aleatorio = ': str(porcetagem_aleatorio)},
     ]
 
+d = int(partidas_terminadas_time_out)
 
 def gerar_analise():
     arq = f"{uuid4()}.txt"
