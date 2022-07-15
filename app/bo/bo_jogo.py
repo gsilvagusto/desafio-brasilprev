@@ -14,6 +14,7 @@ class Jogo:
         JogadorBo.jogador_vermelho,
         JogadorBo.jogador_branco,
     ]
+    lista_rest = lista_jogadores
     lista_jogadores_restantes = lista_jogadores.copy()
     rodada: int = 1
     dado_resultado: int = None

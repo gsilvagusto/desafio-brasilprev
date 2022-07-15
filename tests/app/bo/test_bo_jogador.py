@@ -7,7 +7,6 @@ def test_mover():
     dado_resultado = 4
     posicao_atual = JogadorBo.mover(jogador, dado_resultado)
     assert jogador.posicao == posicao_atual
-    
 
 
 def test_comprar_sucesso():
@@ -15,9 +14,9 @@ def test_comprar_sucesso():
     posicao = 1
     prop = Tabuleiro.tabuleiro[posicao]
     msg = JogadorBo.comprar(jogador, posicao)
-    assert 'Sucesso' == msg
-    assert prop in jogador.lista_propriedades 
-    
+    assert "Sucesso" == msg
+    assert prop in jogador.lista_propriedades
+
 
 def test_comprar_falha():
     jogador = JogadorBo.jogador_azul
@@ -26,5 +25,5 @@ def test_comprar_falha():
     prop = Tabuleiro.tabuleiro[posicao]
     lista = jogador.lista_propriedades
     msg = JogadorBo.comprar(jogador, posicao)
-    assert 'Falha' == msg
+    assert "Falha" == msg
     assert prop not in lista
