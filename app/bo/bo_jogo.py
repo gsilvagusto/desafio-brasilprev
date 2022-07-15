@@ -1,3 +1,4 @@
+import operator
 from dataclasses import dataclass
 from random import randint, shuffle
 
@@ -17,7 +18,7 @@ class Jogo:
     rodada: int = 1
     dado_resultado: int = None
 
-    def ordenar_jogadores(self):
+    def embaralhar_jogadores(self):
         shuffle(self.lista_jogadores_restantes)
         print("")
 
@@ -30,3 +31,10 @@ class Jogo:
 
     def remove_jogador(self, indice):
         return self.lista_jogadores_restantes.pop(indice)
+
+    def ordenar():
+        lista = list()
+        for jogador in Jogo.lista_jogadores_restantes:
+            lista.append({"cor": jogador.cor, "conta": jogador.conta})
+        ordenar = sorted(lista, key=operator.itemgetter("conta"), reverse=True)
+        return ordenar[0]["cor"]

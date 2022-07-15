@@ -27,7 +27,7 @@ class JogadorBo:
     def pagar(jogador, propriedade):
         from app.bo.bo_jogo import Jogo
 
-        if jogador.conta > -1:
+        if jogador.conta > -1 and jogador.cor != propriedade.proprietario:
             jogador.conta -= propriedade.aluguel
             JogadorBo.__dict__[propriedade.proprietario].conta += propriedade.aluguel
             print(

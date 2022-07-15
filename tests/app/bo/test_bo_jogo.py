@@ -1,9 +1,9 @@
 from tests.fixtures import criar_jogo
 
 
-def test_lista_jogadores_ordem_aleatoria(criar_jogo):    
+def test_embaralhar_jogadores(criar_jogo):    
     lista_original = criar_jogo.lista_jogadores
-    lista_aleatoria = criar_jogo.ordenar_jogadores()    
+    lista_aleatoria = criar_jogo.embaralhar_jogadores()    
     assert lista_original != lista_aleatoria
     
     
@@ -24,4 +24,3 @@ def test_nova_rodada(criar_jogo):
 def test_remove_jogador(criar_jogo):
     criar_jogo.remove_jogador(3)
     assert len(criar_jogo.lista_jogadores_restantes) != len(criar_jogo.lista_jogadores)
- 
